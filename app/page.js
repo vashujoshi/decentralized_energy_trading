@@ -148,7 +148,7 @@ const HomePage = () => {
       {/* Footer (Optional) */}
       <footer className="bg-green-600 text-white py-8">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p>&copy; 2024 Decentralized Energy Trading Platform. All rights reserved.</p>
+          <p>&copy; 2024 Decentralized Energy Trading Platform . All rights reserved.</p>
         </div>
       </footer>
     </div>
